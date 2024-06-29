@@ -3,4 +3,4 @@ files:
     ignore:
       - .gitignore
       - .gitattributes
-    translation: '%original_path%'
+    translation: '%original_file_name%'
