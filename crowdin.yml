@@ -1,6 +1,3 @@
 files:
-  - source: geode-plus.json
-    ignore:
-      - .gitignore
-      - .gitattributes
-    translation: '%original_file_name%'
+  - source: geode-plus/en_us.json
+    translation: geode-plus/%locale_with_underscore%
