@@ -1,0 +1,6 @@
+files:
+  - source: geode-plus.json
+    ignore:
+      - .gitignore
+      - .gitattributes
+    translation: '%original_path%'
