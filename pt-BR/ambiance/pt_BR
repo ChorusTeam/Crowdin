@@ -1,9 +1,9 @@
 {
-  "config.screen.ambiance": "Ambiance Options",
+  "config.screen.ambiance": "Opções de Ambiente",
   "ambiance.discord": "Discord",
   "ambiance.patreon": "Patreon",
-  "ambiance.source": "Source",
-  "config.ambiance.option.blocks": "Blocks",
+  "ambiance.source": "Código-fonte",
+  "config.ambiance.option.blocks": "Blocos",
   "config.ambiance.option.items": "Items",
   "config.ambiance.option.entities": "Entities",
   "config.ambiance.option.otherMods": "Other Mods",
@@ -47,5 +47,5 @@
   "config.ambiance.option.blazeParticle": "Smoke Type",
   "config.ambiance.option.enderManParticle": "Particle Type",
   "config.ambiance.option.enderMiteParticle": "Particle Type",
-  "config.ambiance.option.otherBlocks": "Other Blocks"
+  "config.ambiance.option.otherBlocks": "Outros Blocos"
 }
