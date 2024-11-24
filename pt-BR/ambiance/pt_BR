@@ -11,15 +11,15 @@
   "config.ambiance.option.endPortal": "Portal do End",
   "config.ambiance.option.endGateway": "End Gateway",
   "config.ambiance.option.fire": "Fogo",
-  "config.ambiance.option.campfire": "Campfire",
+  "config.ambiance.option.campfire": "Fogueira",
   "config.ambiance.option.torch": "Tocha",
   "config.ambiance.option.candle": "Vela",
   "config.ambiance.option.enableParticle": "Habilitar Partícula",
   "config.ambiance.option.enableSound": "Enable Sound",
-  "config.ambiance.option.soundVolume": "Sound Volume",
-  "config.ambiance.option.particleColor": "Particle Color",
-  "config.ambiance.option.particleSize": "Particle Size",
-  "config.ambiance.option.soundType": "Sound Type",
+  "config.ambiance.option.soundVolume": "Volume Áudio",
+  "config.ambiance.option.particleColor": "Cor das Partículas",
+  "config.ambiance.option.particleSize": "Tamanho das Partículas",
+  "config.ambiance.option.soundType": "Tipo de Som",
   "config.ambiance.option.flameType": "Flame Type",
   "config.ambiance.option.smokeType": "Smoke Type",
   "config.ambiance.option.ashType": "Ash Type",
@@ -47,5 +47,5 @@
   "config.ambiance.option.blazeParticle": "Smoke Type",
   "config.ambiance.option.enderManParticle": "Particle Type",
   "config.ambiance.option.enderMiteParticle": "Particle Type",
-  "config.ambiance.option.otherBlocks": "Outros Blocos"
+  "config.ambiance.option.otherBlocks": "Outros blocos"
 }
